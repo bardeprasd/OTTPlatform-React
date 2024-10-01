@@ -1,7 +1,7 @@
 
 # OTT Platform - ReactJS
 
-This is a **Full-Stack OTT (Over-The-Top) Platform** built using **ReactJS**, **TypeScript**, and **Firebase**. The platform allows users to sign up, log in, browse content, and manage their subscriptions. It utilizes **Firebase Authentication** for secure login and **RESTful APIs** to fetch and manage content.
+This is a **OTT (Over-The-Top) Platform** built using **ReactJS**, **TypeScript**,**Material UI** and **Firebase**. The platform allows users to sign up, log in, browse content, and manage their content list. It utilizes **Firebase Authentication** for secure login and **RESTful APIs** to fetch and manage content.
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ This is a **Full-Stack OTT (Over-The-Top) Platform** built using **ReactJS**, **
 - **Axios**: HTTP client for API requests
 - **React Router**: For navigation and routing
 - **Cypress**: For automated testing
-- **CSS**/**Bootstrap**: For styling and responsive design
+- **Material UI**: For styling and responsive design
 
 ## Setup and Installation
 
